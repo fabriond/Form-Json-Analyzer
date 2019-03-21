@@ -7,9 +7,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -19,9 +19,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Verificar chave criptográfica de uma conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Verificar chave criptográfica de uma conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -31,9 +31,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -43,9 +43,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -55,9 +55,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -67,9 +67,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts;Mudança de número de celular associado à conta"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts","Mudança de número de celular associado à conta"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -79,9 +79,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Arquivar histórico de conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Arquivar histórico de conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -91,9 +91,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "Abaixo de 18 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -103,9 +103,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Verificar chave criptográfica de uma conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Verificar chave criptográfica de uma conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -115,9 +115,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -127,9 +127,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -139,9 +139,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Verificar chave criptográfica de uma conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Verificar chave criptográfica de uma conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -151,9 +151,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -163,9 +163,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -175,9 +175,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -187,9 +187,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -199,9 +199,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -211,9 +211,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 3,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -223,9 +223,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Envio de broadcasts",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Envio de broadcasts"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -235,9 +235,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -247,9 +247,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Verificar chave criptográfica de uma conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Verificar chave criptográfica de uma conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -259,9 +259,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 3,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts;Arquivar histórico de conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts","Arquivar histórico de conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -271,9 +271,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -283,9 +283,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -295,9 +295,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Envio de broadcasts;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Envio de broadcasts","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -307,9 +307,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -319,9 +319,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -331,9 +331,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -343,9 +343,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -355,9 +355,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -367,9 +367,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -379,9 +379,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Envio de broadcasts",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Envio de broadcasts"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -391,9 +391,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -403,9 +403,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 3,
-    "Quais das funcionalidades abaixo você já usou?": "",
-    "Quais das funcionalidades abaixo você usa com frequência?": "",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": [],
+    "Quais das funcionalidades abaixo você usa com frequência?": [],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -415,9 +415,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Mudança de número de celular associado à conta"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Mudança de número de celular associado à conta"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -427,9 +427,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Mudança de número de celular associado à conta;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Mudança de número de celular associado à conta","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -439,9 +439,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Abaixo de 1 hora",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 4,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de documentos;Envio de stickers;Conexão ao whatsapp web;Pesquisar por mensagens;Encaminhar mensagens;Trocar papel de parede",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de documentos;Conexão ao whatsapp web;Pesquisar por mensagens",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de documentos","Envio de stickers","Conexão ao whatsapp web","Pesquisar por mensagens","Encaminhar mensagens","Trocar papel de parede"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de documentos","Conexão ao whatsapp web","Pesquisar por mensagens"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -451,9 +451,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Verificar chave criptográfica de uma conversa"
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Verificar chave criptográfica de uma conversa"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -463,9 +463,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Envio de broadcasts",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Envio de broadcasts"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -475,9 +475,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -487,9 +487,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 3 a 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de contatos;Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de contatos","Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -499,9 +499,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 50 a 60 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 3,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Excluir histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": "Envio de broadcasts;Mudança de número de celular associado à conta"
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Excluir histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ["Envio de broadcasts","Mudança de número de celular associado à conta"]
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -511,9 +511,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudança de número de celular associado à conta",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudança de número de celular associado à conta"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -523,9 +523,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -535,9 +535,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "De 1 a 3 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de contatos;Envio de broadcasts;Mudança de número de celular associado à conta;Excluir histórico de conversa;Arquivar histórico de conversa",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Arquivar histórico de conversa",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de contatos","Envio de broadcasts","Mudança de número de celular associado à conta","Excluir histórico de conversa","Arquivar histórico de conversa"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Arquivar histórico de conversa"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -547,9 +547,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 18 a 24 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Acima de 5 horas",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Mudar formatação de mensagens;Verificar chave criptográfica de uma conversa;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Mudar formatação de mensagens;Compartilhamento de localização;Compartilhamento de localização em tempo real;Criação de grupos",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Mudar formatação de mensagens","Verificar chave criptográfica de uma conversa","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Mudar formatação de mensagens","Compartilhamento de localização","Compartilhamento de localização em tempo real","Criação de grupos"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -559,9 +559,9 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Abaixo de 1 hora",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 3,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de documentos;Envio de audios;Envio de stickers;Conexão ao whatsapp web;Pesquisar por mensagens;Encaminhar mensagens",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Conexão ao whatsapp web;Pesquisar por mensagens",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de documentos","Envio de audios","Envio de stickers","Conexão ao whatsapp web","Pesquisar por mensagens","Encaminhar mensagens"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Conexão ao whatsapp web","Pesquisar por mensagens"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   },
   {
     "Há quanto tempo você utiliza smartphones?": "Acima de 2 anos",
@@ -571,8 +571,8 @@
     "Em qual das seguintes faixas se enquadra a sua idade?": "De 25 a 34 anos",
     "Quantas horas por dia você usa o Whatsapp?": "Abaixo de 1 hora",
     "Quão familiarizado você se considera com as funcionalidades do Whatsapp?": 5,
-    "Quais das funcionalidades abaixo você já usou?": "Envio de documentos;Envio de audios;Envio de stickers;Conexão ao whatsapp web;Pesquisar por mensagens;Encaminhar mensagens;Trocar papel de parede",
-    "Quais das funcionalidades abaixo você usa com frequência?": "Envio de documentos;Envio de audios;Envio de stickers;Conexão ao whatsapp web;Encaminhar mensagens",
-    "Existe alguma dessas funcionalidades que você ainda não conhecia?": ""
+    "Quais das funcionalidades abaixo você já usou?": ["Envio de documentos","Envio de audios","Envio de stickers","Conexão ao whatsapp web","Pesquisar por mensagens","Encaminhar mensagens","Trocar papel de parede"],
+    "Quais das funcionalidades abaixo você usa com frequência?": ["Envio de documentos","Envio de audios","Envio de stickers","Conexão ao whatsapp web","Encaminhar mensagens"],
+    "Existe alguma dessas funcionalidades que você ainda não conhecia?": []
   }
 ]
