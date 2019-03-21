@@ -26,6 +26,6 @@ defmodule JsonAnalyzer do
       |> Enum.reduce(%{}, fn x, acc -> Map.update(acc, x, 1, &(&1 + 1)) end)
       |> Enum.reduce(%{}, &invert_tuple(&2, &1))
 
-    File.write!("Result.json", Poison.encode_to_iodata!(result))
+    File.write!("Result.json", Poison.encode!(result, iodata: true, pretty: true))
   end
 end
