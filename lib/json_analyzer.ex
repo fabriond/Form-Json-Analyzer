@@ -4,23 +4,64 @@ defmodule JsonAnalyzer do
   """
 
   @doc """
-  Hello world.
+  Counts the ocurrences of specific maps in a json file and outputs it to another file
+  This can be used for select-one questions (radio buttons), slider questions and many
+  other types of form questions
+
+  Using this function is not advised for select-multiple questions (checkboxes) as it
+  only checks which people marked all the same checkboxes
 
   ## Examples
 
-      iex> JsonAnalyzer.analyze(IHM.json)
+      iex> JsonAnalyzer.map_ocurrence("IHM Personas.json", "Results.json")
       :ok
-      #=> Result.json updated
+      #=> Results.json created/updated
 
   """
-  def analyze(path) when is_binary(path) do
+  def map_ocurrence(input_path, output_path) when is_binary(input_path) and is_binary(output_path) do
     result =
-      File.read!(path)
+      File.read!(input_path)
       |> Poison.decode!()
-      |> Enum.reduce(%{}, fn x, acc -> Map.update(acc, x, 1, &(&1 + 1)) end)
+      |> Enum.reduce(%{}, fn x, acc -> count_ocurrences(acc, x) end)
       |> Enum.reduce(%{}, &invert_tuple(&2, &1))
 
-    File.write!("Result.json", Poison.encode!(result, iodata: true, pretty: true))
+    File.write!(output_path, Poison.encode!(result, iodata: true, pretty: true))
+  end
+
+  @doc """
+  Counts the ocurrences of any of a list's values for a json file's question in a json
+  file and outputs it to another file
+
+  This is used for select-multiple questions (checkboxes), which give results as lists
+  of the selected answers
+
+  ## Examples
+
+      iex> JsonAnalyzer.list_element_ocurrence("IHM Usability.json", "Results.json")
+      :ok
+      #=> Results.json created/updated
+
+  """
+  def list_element_ocurrence(input_path, output_path) when is_binary(input_path) and is_binary(output_path) do
+    result =
+      File.read!(input_path)
+      |> Poison.decode!()
+      |> Enum.reduce([], fn x, acc -> acc ++ open_list(x) end)
+      |> Enum.reduce(%{}, fn x, acc -> count_ocurrences(acc, x) end)
+      |> Enum.reduce(%{}, &invert_tuple(&2, &1))
+
+    IO.inspect(result)
+    File.write!(output_path, Poison.encode!(result, iodata: true, pretty: true))
+  end
+
+  defp open_list(element) do
+    Map.to_list(element)
+    |> Enum.map(fn x -> Enum.map(elem(x, 1), fn y -> Enum.join(Tuple.to_list({elem(x, 0), y}), ": ") end) end)
+    |> List.flatten()
+  end
+
+  defp count_ocurrences(accumulator, element) do
+    Map.update(accumulator, element, 1, &(&1 + 1))
   end
 
   defp invert_tuple(map, tuple) do
